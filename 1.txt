@@ -21,3 +21,7 @@ void loop()
   }
 
 }
+
+右邊vcc
+中間gnd
+左邊腳位
